@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.hotel.booking.HotelBooking.Controller.ApiControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.015 s <<< FAILURE! - in com.hotel.booking.HotelBooking.Controller.ApiControllerTest
+com.hotel.booking.HotelBooking.Controller.ApiControllerTest  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.NoClassDefFoundError: Lcom/hotel/booking/HotelBooking/Service/IHotelService;
+Caused by: java.lang.ClassNotFoundException: com.hotel.booking.HotelBooking.Service.IHotelService
+
