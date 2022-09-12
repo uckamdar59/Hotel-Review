@@ -13,7 +13,7 @@ The build tool for this project is maven. To run this application, simply run `m
 ## Notes
 
 - Firstly, need to create `hotel` database in postgres and then execute the database scripts mentioned in the `database.properties` (commented out)
-- The Api Routes are mentioned in the controller package. Base Url is : http://127.0.0.1:8080/
+- The Api Routes are mentioned in the controller package. Open the [ApiController](./src/main/java/com/hotel/HotelReview/Controller/ApiController.java) class to see all the routes.  Base Url of the application is : http://127.0.0.1:8080/
 - Have tried to implement basic functionalities
 
 ## More Features which can be added
